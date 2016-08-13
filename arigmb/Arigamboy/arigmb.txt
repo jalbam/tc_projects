@@ -1,0 +1,42 @@
+== == == == == == == == == == == == == == == == == == == == == == == == == == == == == == == ==
+                             AriGamBoy: Emulador de GameBoy
+== == == == == == == == == == == == == == == == == == == == == == == == == == == == == == == ==
+
+AriGamBoy es un emulador de GameBoy en fase Alpha. Es un emulador de origen español, creado por
+Anti(A-Kristo).
+Su nombre procede de mi vieja: hasta hace poco siempre le ha llamado asi! xD
+
+El objetivo de este emulador no pretende suponer ningun obstaculo para ningun otro, ni mucho
+menos. La razon de su creacion es, mas bien, un reto personal. El mismo hecho de ser un emulador
+español ya es todo un lujo; tambien me gustaria dedicar la creacion de este a todo el canal
+#emuladores que me han apoyado muchisimo y espero que sigan asi (;
+
+Esta realizado en C/C++. Si hay algo que me hubiese gustado hacer, eso es la creacion de rutinas
+en ASM puro, y no llamar funciones de este desde C. Pero es que ademas de complicado, estoy 
+intentando aprender totalmente C para pasarme luego a aprender ASM. Y una vez sabido, todo cuanto
+sepa, lo dedicare a la creacion de rutinas en este lenguaje por su mayor flexibilidad, 
+compatibilidad y sobretodo rapidez. Pero hasta ahora, nos conformaremos con esto.
+
+Me veo 'obligado' a dar las gracias especiales a KuKi por ser el primero en facilitarme la
+documentacion tecnica en ingles sobre la maquina. Luego la traduje al español con el Power
+Translator Pro; pero a la vista de que la traduccion daba algunos errores(Sprite=Duende, etc.),
+decidi visualizar el documento traducido e irlo modificandolo corrigiendo cada uno de los falos.
+Ahora mismo estoy en ello: espero que alguien me ayuda a traducirlo, plz! (:
+
+Dede aqui me gustaria pedir ayuda a toda la gente que se preste voluntariamente a apoyarme en
+cualquier asunto; sea en traduccion, programacion, comentarme bugs/sugerencias/criticas, etc...
+
+Archivos incluidos: 
+
+* arigmb.txt(este): leeme del emulador.
+* thx.txt: las gracias.
+* creditos.txt: pues eso, los creditos...
+* lonuevo.txt: las novedades que se van incorporando en el emulador.
+* arigmb.exe: archivo ejecutable del emulador. Version Alpha!!!
+----------------------------------------------------------------------
+
+Hasta aqui nada mas. Espero vuestra colaboracion! :D
+
+
+
+- Anti (A-Kristo)

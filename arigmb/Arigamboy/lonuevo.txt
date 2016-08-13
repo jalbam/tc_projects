@@ -1,0 +1,8 @@
+Miercos, 25/11/1998. Noviembre: AriGamBoy v.0.00001 Alpha Version
+
+- Hoy es un dia que Emuspain esta down e Internet va que da asco. (lo recordaremos...)
+- Traduccion preeliminar de documentacion tecnica basica(DTB) concedida por KuKi.
+- Comienzo de la traduccion depuradora de la DBT ralizada manualmente -> en proceso.
+- Lectura de la version semi-depurada(casi nada depurada) de la DBT.
+- Creacion de documentos como: thx.txt, arigamboy.txt, etc.
+- Creacion de Arigmb.exe sin incluir casi nada.
