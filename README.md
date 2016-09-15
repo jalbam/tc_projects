@@ -8,6 +8,9 @@ Version: different versions
 - Date: 1998 (approximately)
 
 
+![ScreenShot](screenshot.jpg)
+
+
 Description
 
 Two unfinished games (not playable) and a Game Boy emulator prototype called AriGamBoy (not working) made with Borland Turbo C under MS-DOS 6.22.
